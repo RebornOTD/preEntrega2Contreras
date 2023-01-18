@@ -7,7 +7,7 @@
 
 }
 
-#main{
+#main {
     text-align: center;
     background: url(assets/img/fondo.jpg) no-repeat;
     background-size: cover;
@@ -19,7 +19,8 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    align-content: center;}
+    align-content: center;
+}
 
 nav {
     background: #0b6060;
@@ -126,66 +127,57 @@ li a:hover {
     }
 }
 
-.inicio {}
-
-.menu {}
-
 .sobrenos img {
-    margin:10px auto;
-    border-radius:5px;
+    margin: 10px auto;
+    border-radius: 5px;
     border: 1px solid #999;
-    padding:13px;
-    width:800px;
-    height:450px;
+    padding: 13px;
+    width: 800px;
+    height: 450px;
     background-size: 100% 100%;
-    background-repeat:no-repeat;
-    background:url(assets/img/fondo-gris.jpg);
+    background-repeat: no-repeat;
+    background: url(assets/img/fondo-gris.jpg);
     background-size: cover;
     object-fit: contain;
 }
 
-.catering{}
-
 .catering img {
-    margin:10px auto;
-    border-radius:5px;
+    margin: 10px auto;
+    border-radius: 5px;
     border: 1px solid #999;
-    padding:13px;
-    width:600px;
-    height:500px;
+    padding: 13px;
+    width: 600px;
+    height: 500px;
     background-size: 100% 100%;
-    background-repeat:no-repeat;
-    background:url(assets/img/fondo-gris.jpg);
+    background-repeat: no-repeat;
+    background: url(assets/img/fondo-gris.jpg);
     background-size: cover;
 }
 
 .viandas img {
-    margin:10px auto;
-    border-radius:5px;
+    margin: 10px auto;
+    border-radius: 5px;
     border: 1px solid #999;
-    padding:13px;
-    width:600px;
-    height:500px;
+    padding: 13px;
+    width: 600px;
+    height: 500px;
     background-size: 100% 100%;
-    background-repeat:no-repeat;
-    background:url(assets/img/fondo-gris.jpg);
+    background-repeat: no-repeat;
+    background: url(assets/img/fondo-gris.jpg);
     background-size: cover;
     object-fit: contain;
 }
 
 .contacto img {
-    margin:10px auto;
-    border-radius:5px;
+    margin: 10px auto;
+    border-radius: 5px;
     border: 1px solid #999;
-    padding:13px;
-    width:300px;
-    height:400px;
+    padding: 13px;
+    width: 300px;
+    height: 400px;
     background-size: 100% 100%;
-    background-repeat:no-repeat;
-    background:url(assets/img/fondo-gris.jpg);
+    background-repeat: no-repeat;
+    background: url(assets/img/fondo-gris.jpg);
     background-size: cover;
     object-fit: contain;
 }
-
-
-.footer {}
